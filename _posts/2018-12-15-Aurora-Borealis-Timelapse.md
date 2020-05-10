@@ -11,4 +11,4 @@ Just a short post to share quite a cool timelapse video of the [Fortune Island](
 
 This was a really interesting shader to collaborate on with the Lighting team.
 
-[![]({{site.baseurl}}/images/2018-12-15/FH4_thumb01.jpg)](http://compass.xboxlive.com/assets/7e/31/7e31453c-6300-4040-a9e6-6dd7259bedec.jpg?n=FH4_FortuneIsland_04_story.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/assets/images/2018-12-15/FH4_thumb01.jpg)](http://compass.xboxlive.com/assets/7e/31/7e31453c-6300-4040-a9e6-6dd7259bedec.jpg?n=FH4_FortuneIsland_04_story.jpg)

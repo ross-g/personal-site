@@ -10,7 +10,7 @@ The release of Adobes Creative Cloud suite back in 2013 brought with it [support
 
 One particularly nice example is [Adobes Kuler panel](http://blogs.adobe.com/richardcurtis/2014/06/23/adobe-kuler-panel-is-now-available-for-photoshop-cc-2014/).
 
-<img src="{{site.baseurl}}/images/2015-04-30/Kuler.jpg" style="width:100px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/2015-04-30/Kuler.jpg" style="width:100px;"/>
 
 I'm going to be covering how I made extensions for Photoshop CC 2014, as this is what I've been supporting at work... so if there's any differences with CEP or ExtendScript (Photoshop's Javascript-alike scripting language) from 2015 onwards I've not had cause to encounter them yet! I'm also going to be covering it *backwards*, starting with deploying the extension first. While this probably sounds odd, it will make iterating on tools much smoother if you already have a system for deploying them and reloading code changes.
 
