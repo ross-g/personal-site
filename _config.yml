@@ -16,14 +16,17 @@
 locale: en-GB
 title: ross-g
 subtitle: mostly tech-art and other things 3D!
+title_separator: "-"
+name: Ross Garfoot
 email: ross.garfoot@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tech-Art, 3dsmax, Maya, Blender, Python, Maxscript, Video games.
 url: "https://ross-g.github.io"
 baseurl: "/personal-site"
 repository: "ross-g/wcc-demo"
-github_username: ross-g
+words_per_minute: 160
 minimal_mistakes_skin: dark
+github_username: ross-g
 search: true
 comments:
   provider    : "disqus"
@@ -69,6 +72,10 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Senior Technical Artist working as part of the team at Playground Games."
   location : "UK"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/rossgarfoot"
 
 footer:
   links:
@@ -101,6 +108,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      header:
+        overlay_color: "#FE3C02"
 
 category_archive:
   type: liquid
