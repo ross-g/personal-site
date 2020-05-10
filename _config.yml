@@ -109,7 +109,7 @@ defaults:
       layout: single
       author_profile: true
       header:
-        overlay_color: "#FE3C02"
+        overlay_color: "#FF6800"
 
 category_archive:
   type: liquid
