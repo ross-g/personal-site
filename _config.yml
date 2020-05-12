@@ -22,8 +22,8 @@ email: ross.garfoot@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tech-Art, 3dsmax, Maya, Blender, Python, Maxscript, Video games.
 url: "https://ross-g.github.io"
-baseurl: "/personal-site"
-repository: "ross-g/wcc-demo"
+baseurl: ""
+repository: "ross-g/ross-g.github.io"
 words_per_minute: 160
 minimal_mistakes_skin: dark
 github_username: ross-g
